@@ -6,7 +6,7 @@ A Magisk module to toggle the showing of rotation suggestions button | 一个用
 - [KernelSU](https://github.com/tiann/KernelSU)
 - [APatch](https://github.com/bmax121/APatch)
 
-## Credits | 鸣谢
+### Credits | 鸣谢
 - [Magisk](https://github.com/topjohnwu/Magisk) - the foundation which makes everything possible | 让一切成为可能的基石
 - [LSPosed](https://github.com/LSPosed/LSPosed) - the implementation of function extract and root solution check | Root方案检测和解压函数的实现
 - [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext) - the implementation of function extract and root solution check | Root方案检测和解压函数的实现
