@@ -138,7 +138,6 @@ ui_print "- Root: $ROOT_SOL_DETAIL"
 extract 'customize.sh' "$TMPDIR"
 extract 'action.sh'
 extract 'module.prop'
-extract 'service.sh'
 extract 'uninstall.sh'
 ui_print "- Setting permission"
 set_perm_recursive "$MODPATH" 0 0 0755 0644
