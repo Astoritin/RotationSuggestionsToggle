@@ -3,5 +3,4 @@ A Magisk module to toggle the showing of rotation suggestions button | 一个用
 
 ### 1.0
 
-- optimize minor code
-- 优化少量代码
+The first page | 第一页
