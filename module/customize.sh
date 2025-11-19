@@ -142,10 +142,11 @@ extract 'uninstall.sh'
 ui_print "- Setting permission"
 set_perm_recursive "$MODPATH" 0 0 0755 0644
 ui_print "- Closing rotation suggestions button"
-settings put secure show_rotation_suggestions 0 && ui_print "Done"
+settings put secure show_rotation_suggestions 0 && ui_print "- Done"
 print_line
 ui_print ""
-ui_print "- $MOD_NAME will take effect immediately"
+ui_print "- $MOD_NAME"
+ui_print "- will take effect immediately"
 ui_print "- Reboot is NOT required if you don't"
 ui_print "- need to enable suggestions button later"
 ui_print ""
