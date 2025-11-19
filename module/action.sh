@@ -1,12 +1,12 @@
 #!/system/bin/sh
 MODDIR=${0%/*}
 
-MOD_INTRO="Stop showing rotation suggestions button"
-SEPARATE_LINE="----------------------------------------"
+MOD_INTRO="Toggle the showing of rotation suggestions button."
+SEPARATE_LINE="***************************************"
 
 echo "$SEPARATE_LINE"
-echo "- Rotation Suggestions Closed"
-echo "- By Astoritin Ambrosius"
+echo "- Rotation Suggestions Toggle"
+echo "- By Astoritin"
 echo "$SEPARATE_LINE"
 echo "- $MOD_INTRO"
 echo "$SEPARATE_LINE"
@@ -23,6 +23,6 @@ elif [ $result_rs = 1 ]; then
     echo "- Now button will NOT be shown as detecting rotation"
 fi
 echo "$SEPARATE_LINE"
-echo "- Case closed!"
+echo "- Done!"
 sleep 1
 exit 0
