@@ -1,7 +1,7 @@
 id=rotation_suggestions_toggle
 name=Rotation Suggestions Toggle
-version=v1.0
+version=1.0
 versionCode=1
 author=Astoritin
-updateJson=https://raw.githubusercontent.com/Astoritin/RotationSuggestionsToggle/main/update/update.json
+updateJson=https://raw.githubusercontent.com/Astoritin/RotationSuggestionsToggle/main/upgrade/update.json
 description=Toggle the showing of rotation suggestions button.
